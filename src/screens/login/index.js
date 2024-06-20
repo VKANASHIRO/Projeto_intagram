@@ -75,12 +75,9 @@ export default function Login({ navigation }) {
                 </Text>
               </Pressable>
               <View>
-                <Image
-                  className="w-20 h-10"
-                  source={{
-                    uri: 'https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Meta-Black-Wordmark-900x0.png',
-                  }}
-                />
+                <Text>
+                  Vinicius Kanashiro Almeida
+                </Text>
               </View>
             </View>
           </View>
