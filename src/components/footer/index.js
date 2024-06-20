@@ -48,7 +48,7 @@ const Footer = () => {
       <TouchableOpacity onPress={() => navigation.navigate("home")}>
         <View className={isActivePage("feed")}>
           <TouchableHighlight>
-            <Image className="h-8 w-8 border rounded-full" source={{ uri: "https://avatars.githubusercontent.com/u/106407439?v=4" }} />
+            <Image className="h-8 w-8 border rounded-full" source={{ uri: "https://avatars.githubusercontent.com/VKANASHIRO" }} />
           </TouchableHighlight>
         </View>
       </TouchableOpacity>
